@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>a02293fe2f2a1110024c5fd62799b6a1</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>public</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:52:34</sys_created_on>
+        <sys_id>e02293fe2f2a1110024c5fd62799b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ショッピングアイテム2</sys_name>
+        <sys_package display_value="shopping List" source="x_827137_shopping">9387c3b62f2a1110024c5fd62799b648</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shopping List">9387c3b62f2a1110024c5fd62799b648</sys_scope>
+        <sys_update_name>sys_sg_icon_section_e02293fe2f2a1110024c5fd62799b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:52:34</sys_updated_on>
+        <table/>
+        <title>ショッピングアイテム2</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

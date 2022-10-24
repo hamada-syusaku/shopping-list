@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="46b108032fea1110024c5fd62799b6dc" sys_domain="global" table="x_827137_shopping_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>store</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 06:20:28</sys_created_on>
+            <sys_id>cab140c32fea1110024c5fd62799b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_827137_shopping_item" sys_domain="global" view="Default view">46b108032fea1110024c5fd62799b6dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 06:20:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_827137_shopping_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-19 06:20:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46b108032fea1110024c5fd62799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_827137_shopping_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="shopping List" source="x_827137_shopping">9387c3b62f2a1110024c5fd62799b648</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="shopping List">9387c3b62f2a1110024c5fd62799b648</sys_scope>
+            <sys_update_name>sys_ui_section_46b108032fea1110024c5fd62799b6dc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-19 06:20:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

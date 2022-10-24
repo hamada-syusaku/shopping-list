@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label=" Item" max_length="40" name="x_827137_shopping_item" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Store" max_length="40" name="store" type="string"/>
+    </element>
+</database>

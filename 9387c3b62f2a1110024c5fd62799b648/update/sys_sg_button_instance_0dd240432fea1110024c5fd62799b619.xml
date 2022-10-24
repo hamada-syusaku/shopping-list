@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="User location function">1655cb8a87103300a785940307cb0bfc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>遷移後でてきた</label>
+        <location>trailing_swipe</location>
+        <name>遷移後でてきた</name>
+        <order/>
+        <parent name="Analytics Settings Managers" parent_table="sys_user_group">019ad92ec7230010393d265c95c260dd</parent>
+        <parent_table>sys_user_group</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 06:27:58</sys_created_on>
+        <sys_id>0dd240432fea1110024c5fd62799b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>遷移後でてきた</sys_name>
+        <sys_package display_value="shopping List" source="x_827137_shopping">9387c3b62f2a1110024c5fd62799b648</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shopping List">9387c3b62f2a1110024c5fd62799b648</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0dd240432fea1110024c5fd62799b619</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 06:27:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0dd240432fea1110024c5fd62799b619"/>
+</record_update>

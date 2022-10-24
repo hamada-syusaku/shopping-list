@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_827137_shopping_2</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="ショッピングアイテム2 Form Screen">a82293fe2f2a1110024c5fd62799b6a1</embedded_screen>
+        <item_view/>
+        <name>ショッピングアイテム2 master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 02:52:34</sys_created_on>
+        <sys_id>202293fe2f2a1110024c5fd62799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ショッピングアイテム2 master_item</sys_name>
+        <sys_package display_value="shopping List" source="x_827137_shopping">9387c3b62f2a1110024c5fd62799b648</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shopping List">9387c3b62f2a1110024c5fd62799b648</sys_scope>
+        <sys_update_name>sys_sg_master_item_202293fe2f2a1110024c5fd62799b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:52:34</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="ショッピングアイテム2 List Screen View Config">1c2293fe2f2a1110024c5fd62799b66f</view_config>
+    </sys_sg_master_item>
+</record_update>
